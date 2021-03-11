@@ -5,9 +5,9 @@ data.json: the JSON file containing the data.
 dict.py : Code for Dictionary
 
 
-# Sample Output
-_enter the word you want to search **supermann-** \n
-Did you mean superman instead? \n
-Press y for yes and n for no **y**
-**A powerful hallucinogenic drug manufactured from lysergic acid.**
+**#Sample Output** <br />
+_enter the word you want to search **supermann-**   <br />
+Did you mean superman instead? <br />
+Press y for yes and n for no **y** <br />
+**A powerful hallucinogenic drug manufactured from lysergic acid.** <br />
 _
