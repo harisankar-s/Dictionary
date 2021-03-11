@@ -1,8 +1,8 @@
 # Dictionary
-This repository contains the code showing how a dictionary can be created very easily in Python.
+This repository contains the code showing how a dictionary can be created very easily in Python.<br />
 
-data.json: the JSON file containing the data.
-dict.py : Code for Dictionary
+data.json: the JSON file containing the data. <br />
+dict.py : Code for Dictionary <br />
 
 
 **#Sample Output** <br />
