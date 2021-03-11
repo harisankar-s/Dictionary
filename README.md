@@ -6,9 +6,8 @@ dict.py : Code for Dictionary
 
 
 # Sample Output
-_enter the word you want to search **supermann-**
-Did you mean superman instead
-
-Press y for yes and n for noy
-A powerful hallucinogenic drug manufactured from lysergic acid.
+_enter the word you want to search **supermann-** \n
+Did you mean superman instead? \n
+Press y for yes and n for no **y**
+**A powerful hallucinogenic drug manufactured from lysergic acid.**
 _
