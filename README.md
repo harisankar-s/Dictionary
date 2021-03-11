@@ -5,7 +5,7 @@ data.json: the JSON file containing the data.
 dict.py : Code for Dictionary
 
 
-#Sample Output
+# Sample Output
 _enter the word you want to search **supermann-**
 Did you mean superman instead
 
